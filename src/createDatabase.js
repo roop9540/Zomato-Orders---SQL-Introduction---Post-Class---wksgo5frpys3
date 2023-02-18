@@ -37,3 +37,4 @@ let a = async (err) => {
 
 }
 a()
+module.exports = a;
